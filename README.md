@@ -12,3 +12,5 @@ Edit-04 25-Sept-2020 Submitted assignment 4
 Edit-05 03-Oct-2020 Submitted assignment 5 - Exception Handling
 
 Edit-06 23-Oct-2020 Ineuron_python_assignment_5_PANDAS_Data_Cleansing
+
+Edit-07 09-Jan-2021 Ineuron_python_assignment_6_numpy assignment
