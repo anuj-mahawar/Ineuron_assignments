@@ -18,3 +18,7 @@ Edit-07 09-Jan-2021 Ineuron_python_assignment_6_numpy assignment
 Edit-08 13-Jan-2021 Ineuron_python_assignment_7_data_visualization_assignment
 
 Edit-09 18-Jan-2021 Ineuron_python_assignment_8_matplotlib
+
+Edit -10 21-Feb-2021 Web Scrapping Assignment for All reviews for a particular product from Flipkart
+
+Edit -11 23-Feb-2021 Image Scrapping Assignment
