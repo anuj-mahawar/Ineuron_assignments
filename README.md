@@ -22,3 +22,5 @@ Edit-09 18-Jan-2021 Ineuron_python_assignment_8_matplotlib
 Edit -10 21-Feb-2021 Web Scrapping Assignment for All reviews for a particular product from Flipkart
 
 Edit -11 23-Feb-2021 Image Scrapping Assignment
+
+Edit -12 03-Mar-2021 Stats Assignment 1
